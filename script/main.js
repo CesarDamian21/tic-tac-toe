@@ -1,0 +1,1 @@
+const juegoTictacoe = document.quuer
